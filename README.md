@@ -18,14 +18,8 @@ pip install flask
 
 
 cd py-server
-
 python main_server.py
 
-The Flask server will run at http://127.0.0.1:5000.
-3️⃣ Start the PHP Server
-
-php -S 127.0.0.1:8000
-Open http://127.0.0.1:8000/calc.php in your browser.
 
 
 
